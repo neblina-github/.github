@@ -1,6 +1,6 @@
 # Welcome to Neblina!
 ### Mission
-At Neblina, our mission is to automate everyday tasks and make those that cannot be automated more enjoyable and fun.
+At Neblina, our mission is to automate everyday tasks and make those that cannot be automated more enjoyable.
 
 ### Technologies We Use
 We focus on modern and versatile technologies to build efficient solutions:
